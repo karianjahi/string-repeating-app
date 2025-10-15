@@ -1,4 +1,3 @@
-```markdown
 # 🔁 String Repeating App
 
 ## 📖 Overview
