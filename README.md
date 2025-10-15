@@ -12,7 +12,7 @@ This project is part of my **JavaScript learning journey** focused on mastering 
 
 ## 📂 Project Structure
 
-```
+```bash
 string-repeating-app/
 │
 ├── .gitignore      # 🧹 Files and folders to be ignored by Git
@@ -32,10 +32,10 @@ string-repeating-app/
 ### ▶️ Running the Project
 
 1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/karianjahi/string-repeating-app.git
-   cd string-repeating-app
-   ```
+```bash
+    git clone https://github.com/karianjahi/string-repeating-app.git
+    cd string-repeating-app
+```
 
 2. Open `source.js` in your code editor.
 
