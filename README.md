@@ -116,5 +116,4 @@ This project is open-source
 | 🎯 **Output** | The string repeated the given number of times. |
 | 🧩 **Core Concept** | Looping and string concatenation. |
 | 💡 **Learning Focus** | Practicing iteration and conditional logic. |
-| 🧑‍💻 **Author** | Joseph Karianjahi Njeri. |
 ```
